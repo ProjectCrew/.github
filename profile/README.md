@@ -8,6 +8,6 @@
 
 | Project Name | Description | Project Timeline |
 | :---         |     :---      | :---          |
-| Cvrve | Event Management Tool empowering universities & colleges | Mar. '24 - Present |
+| Cvrve | Event Management Tool empowering universities & colleges | Jan. '24 - Present |
 | Academ.ai | A smart tool that creates personalized learning schedules | Nov. '23 - Present |
 | HeyHoo | Voice-controlled assistant tool to empower individuals with visual impairments| April '24 - May '24|
